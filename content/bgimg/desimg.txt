@@ -1,0 +1,28 @@
+<div class="desClass">
+<a href="stylesInfo.php?id=1"><img src="./img/bg/design56.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=1"> Design 1</a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=2"><img src="./img/bg/design58.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=2"> Design 3</a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=3"><img src="./img/bg/design60.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=3"> Design 4 </a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=4"><img src="./img/bg/design57.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=4"> Design 2</a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=5"><img src="./img/bg/design61.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=5"> Design 5</a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=6"><img src="./img/bg/design63.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=6"> Design 7</a>
+</div>
+<div class="desClass">
+<a href="stylesInfo.php?id=7"><img src="./img/bg/design59.jpg" class="desImg" alt=""></a><br/>
+<a href="stylesInfo.php?id=7"> Design 4</a>
+</div>

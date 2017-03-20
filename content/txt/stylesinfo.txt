@@ -1,0 +1,10 @@
+When the user logs in to a mailbox , check if the value is set. If yes then check the number of currently logged users for this mailbox and if it exceeds the allowed limit then notify users that the users exceeded and log off the mailbox.
+
+
+When the user logs in to a mailbox , check if the value is set. If yes then check the number of currently logged users for this mailbox and if it exceeds the allowed limit then notify users that the users exceeded and log off the mailbox.
+
+
+When the user logs in to a mailbox , check if the value is set. If yes then check the number of currently logged users for this mailbox and if it exceeds the allowed limit then notify users that the users exceeded and log off the mailbox.
+
+
+When the user logs in to a mailbox , check if the value is set. If yes then check the number of currently logged users for this mailbox and if it exceeds the allowed limit then notify users that the users exceeded and log off the mailbox.

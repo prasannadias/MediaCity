@@ -1,0 +1,1 @@
+<img class="bgImg" src="./img/bg/bg50.jpg" alt="" id="bgImg"/>

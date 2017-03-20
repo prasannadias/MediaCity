@@ -1,0 +1,31 @@
+bgText[1]= "<h2>Title 1</h2><p>Desc 1 </p>";
+bgText[2]= "<h2>Title 2</h2><p>Desc 2 </p>";
+bgText[3]= "<h2>Title 3</h2><p>Desc 3 </p>";
+bgText[4]= "<h2>Title 4</h2><p>Desc 4 </p>";
+bgText[5]= "<h2>Title 5</h2><p>Desc 5 </p>";
+bgText[6]= "<h2>Title 6 @</h2><p>Desc 6 @ </p>";
+bgText[7]= "<h2>Title 7</h2><p>Desc 7 </p>";
+bgText[8]= "<h2>Title 8</h2><p>Desc 8 </p>";
+bgText[9]= "<h2>Title 9</h2><p>Desc 9 </p>";
+bgText[10]= "<h2>Title 10</h2><p>Desc 10 </p>";
+bgText[11]= "<h2>Title 11</h2><p>Desc 11 </p>";
+bgText[12]= "<h2>Title 12</h2><p>Desc 12 </p>";
+bgText[13]= "<h2>Title 1000</h2><p>Description </p>";
+bgText[14]= "<h2>BG imgae 111</h2><p>Description </p>";
+
+bgImages[1]="./img/BG/bg40.jpg";
+bgImages[2]="./img/BG/bg44.jpg";
+bgImages[3]="./img/BG/bg45.jpg";
+bgImages[4]="./img/BG/bg46.jpg";
+bgImages[5]="./img/BG/bg47.jpg";
+bgImages[6]="./img/BG/bg48.jpg";
+bgImages[7]="./img/BG/bg49.jpg";
+bgImages[8]="./img/BG/bg50.jpg";
+bgImages[9]="./img/BG/bg51.jpg";
+bgImages[10]="./img/BG/bg52.jpg";
+bgImages[11]="./img/BG/bg53.jpg";
+bgImages[12]="./img/BG/bg54.jpg";
+bgImages[13]="./img/BG/bg64.jpg";
+bgImages[14]="./img/BG/bg62.jpg";
+
+totalImg = 14;

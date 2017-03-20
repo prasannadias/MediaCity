@@ -1,0 +1,45 @@
+.menubar1 {
+	background-image:url('../img/menubar1.png');
+	height:52px;
+	text-align:right;
+	padding-top:10px;
+	padding-right:10px;
+	color: #FFFFFF;	
+	text-decoration:none;	
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;	
+}
+
+.menubar1 ul {
+	
+}
+
+.menubar1 img {
+
+border:0px;	
+}
+
+
+.menubar1 ul li {
+	float:right;
+	padding-right: 10px;
+}
+
+.menubar1 ul li a {
+	color: #FFFFFF;	
+	text-decoration:none;	
+}
+
+.menubar1 ul li a:hover {
+	color: #0085CD;	
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
